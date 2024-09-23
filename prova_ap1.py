@@ -103,7 +103,7 @@ estoque = {
 # 9 - (1.5) Crie um pacote com o nome "pacote_auxiliar" e um modulo com o nome modulo.
 # Coloque dentro desse pacote uma funcão: 
 # nome da funcao: calcular_media
-# parametros de entrada: 4 numeros decimais
+# parametros de entrada: 4 numeros float
 # parametro de saida: media desses quatros numeros
 # Importe a funcao e execute ela aqui com os seguintes numeros (9.3, 10.6, 348.9, 1000.99)
 # Mostre o resultado da chamada da funcao

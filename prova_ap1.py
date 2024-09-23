@@ -14,10 +14,13 @@ alunos = {
     'marcelo': [3.0, 4.0, 7.5],
     'bruno': [8.0, 6.0, 7.5],
     }
-
 # Usando for loop em cada item do dicionario aluno acima:
 # 1 - (1.5) Calcular a média de cada aluno.
 # 2 - (1.5) Verificar a situação de cada aluno com base nas regras descritas e exiba a descricao.
+
+
+
+
 
 
 
@@ -53,6 +56,8 @@ compras ={
 
 
 
+
+
 # Você foi contratado para desenvolver um sistema de gerenciamento de estoque para uma pequena loja. 
 # O estoque esta com as seguintes quantidades definidas por produto.
 estoque = {
@@ -67,9 +72,15 @@ estoque = {
 # Cadastre esse produto com um novo item do dicionario estoque.
 
 
+
+
+
+
 # 6 - (1.0) Faça um programa que receba do usuário através de um input, a compra de um produto (camiseta)
 # Compra realizada de 800 camisetas
 # Atualize o estoque e mostre a quantidade que restou
+
+
 
 
 
@@ -78,9 +89,14 @@ estoque = {
 # Atualize o estoque e mostre a quantidade que restou e se nao tiver o estoque suficiente avise 
 
 
+
+
+
 # 8 - (1.0) Faça um programa que receba do usuário através de um input, de uma atualizacao de um produto (chapeu)
 # Atualizar o estoque com o novo abastecimento
 # Abastecimento do estoque de chapeu em 100 unidades
+
+
 
 
 
@@ -91,6 +107,8 @@ estoque = {
 # parametro de saida: media desses quatros numeros
 # Importe a funcao e execute ela aqui com os seguintes numeros (9.3, 10.6, 348.9, 1000.99)
 # Mostre o resultado da chamada da funcao
+
+
 
 
 

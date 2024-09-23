@@ -84,7 +84,7 @@ estoque = {
 
 
 
-# 7 - (1.0) Faça um programa que receba do usuário através de um input, a compra de um produto (tenis)
+# 7 - (1.0) Faça um programa que receba do usuário através de um input, a compra de um produto (luva)
 # Compra realizada de 20 luva
 # Atualize o estoque e mostre a quantidade que restou e se nao tiver o estoque suficiente avise 
 
